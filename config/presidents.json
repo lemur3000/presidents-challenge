@@ -1,0 +1,176 @@
+
+var presidents = 
+[
+	{	
+		'name':	'george washington',
+		'drink': 'beer'
+	},
+	{	
+		'name':	'john adams',
+		'drink': 'hard cider'
+	},
+	{	
+		'name':	'thomas jefferson',
+		'drink': 'wine'
+	},
+	{	
+		'name':	'james madison',
+		'drink': 'champagne'
+	},
+	{	
+		'name':	'james monroe',
+		'drink': 'champagne'
+	},
+	{	
+		'name':	'john quincy adams',
+		'drink': 'madeira'
+	},
+	{	
+		'name':	'andrew jackson',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'martin van buren',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'william henry harrison',
+		'drink': 'hard cider'
+	},
+	{	
+		'name':	'john tyler',
+		'drink': 'champagne'
+	},
+	{	
+		'name':	'james k. polk',
+		'drink': 'wine'
+	},
+	{	
+		'name':	'zachary taylor',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'millard filmore',
+		'drink': 'madeira'
+	},
+	{	
+		'name':	'franklin pierce',
+		'drink': 'wildcard'
+	},
+	{	
+		'name':	'james buchanan',
+		'drink': 'madeira'
+	},
+	{	
+		'name':	'abraham lincoln',
+		'drink': 'sober'
+	},
+	{	
+		'name':	'andrew johnson',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'ulysses s. grant',
+		'drink': 'champagne'
+	},
+	{	
+		'name':	'rutherford b. hayes',
+		'drink': 'sober'
+	},
+	{	
+		'name':	'james garfield',
+		'drink': 'beer'
+	},
+	{	
+		'name':	'chester a. arthur',
+		'drink': 'wildcard'
+	},
+	{	
+		'name':	'grover cleveland',
+		'drink': 'beer'
+	},
+	{	
+		'name':	'benjamin harrison',
+		'drink': 'sober'
+	},
+	{	
+		'name':	'william mckinley',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'teddy roosevelt',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'william howard taft',
+		'drink': 'champagne'
+	},
+	{	
+		'name':	'woodrow wilson',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'warren g. harding',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'calvin coolidge',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'herbert hoover',
+		'drink': 'martini'
+	},
+	{	
+		'name':	'franklin d. roosevelt',
+		'drink': 'martini'
+	},
+	{	
+		'name':	'harry truman',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'dwight d. eisenhower',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'john f. kennedy',
+		'drink': 'wildcard'
+	},
+	{	
+		'name':	'lyndon b. johnson',
+		'drink': 'whiskey'
+	},
+	{	
+		'name':	'richard nixon',
+		'drink': 'wine'
+	},
+	{	
+		'name':	'gerald ford',
+		'drink': 'martini'
+	},
+	{	
+		'name':	'jimmy carter',
+		'drink': 'wine'
+	},
+	{	
+		'name':	'ronald reagan',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'george h.w. bush',
+		'drink': 'wildcard'
+	},
+	{	
+		'name':	'william clinton',
+		'drink': 'cocktail'
+	},
+	{	
+		'name':	'george w. bush',
+		'drink': 'sober'
+	},
+	{
+		'name':	'barack obama',
+		'drink': 'beer'
+	}
+]
