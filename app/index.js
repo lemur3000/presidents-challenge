@@ -1,10 +1,23 @@
 import React from 'react'
+import { BrowserRouter, Match } from 'react-router'
 import { render } from 'react-dom'
+import App from 'containers/App'
 
-function App(props) {
+function Team(props) {
   return (
-    <div>{props.stuff ? props.stuff : `I don't have stuff`}</div>
+    <div>I am a team</div>
   )
 }
 
-render(<App stuff={'Sup dog'} />, document.getElementById('app'))
+function Router() {
+  return (
+    <BrowserRouter>
+      <div>
+        <Match pattern="/" exactly component={App} />
+        <Match pattern="/team" component={Team} />
+      </div>
+    </BrowserRouter>
+  )
+}
+
+render(<Router />, document.getElementById('app'))
