@@ -27,10 +27,6 @@ export default class App extends Component {
             ? this.state.presidents.map(x =>
               <div className={css.item}>
                 <div className={css.name}>{x.name}</div>
-                <img
-                  className={css.img}
-                  src={require(`images/${x.image}`)}
-                />
               </div>)
             : <div>Me no have presidents</div>
         }

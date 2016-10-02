@@ -16,7 +16,7 @@ function seedDB(data) {
   data.map(x =>
     new President({
       name: x.name,
-      image: '800px-Gilbert.jpg',
+      image: x.image,
       drink: { name: x.drink }
     })
   )
